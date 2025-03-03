@@ -4,7 +4,7 @@
 <!-- Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.                   -->
 <!-- Copyright 2022-2023 Advanced Micro Devices, Inc. All Rights Reserved.   -->
 
-<Project Product="Vivado" Version="7" Minor="63" Path="C:/Users/cp123/UART_2023/UART_2023.xpr">
+<Project Product="Vivado" Version="7" Minor="63" Path="C:/Users/cp123/UART_2023/Image-Processing-and-UART-Transmitter-Receiver/UART_2023.xpr">
   <DefaultLaunch Dir="$PRUNDIR"/>
   <Configuration>
     <Option Name="Id" Val="2bbb71d455414d6cb5603a93c3b70a66"/>
@@ -90,14 +90,14 @@
   <FileSets Version="1" Minor="31">
     <FileSet Name="sources_1" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1" RelGenDir="$PGENDIR/sources_1">
       <Filter Type="Srcs"/>
-      <File Path="$PPRDIR/../DIP_unit/DIP_unit.srcs/sources_1/new/DIP_unit.v">
+      <File Path="$PPRDIR/../../DIP_unit/DIP_unit.srcs/sources_1/new/DIP_unit.v">
         <FileInfo>
           <Attr Name="UsedIn" Val="synthesis"/>
           <Attr Name="UsedIn" Val="implementation"/>
           <Attr Name="UsedIn" Val="simulation"/>
         </FileInfo>
       </File>
-      <File Path="$PPRDIR/../UART_R/UART_R.srcs/sources_1/new/UART_R.v">
+      <File Path="$PPRDIR/../../UART_R/UART_R.srcs/sources_1/new/UART_R.v">
         <FileInfo>
           <Attr Name="UsedIn" Val="synthesis"/>
           <Attr Name="UsedIn" Val="implementation"/>
